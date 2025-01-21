@@ -57,7 +57,7 @@
     "vue-router": "4.4.5"
   },
   "volta": {
-    "node": "20.18.0",
+    "node": "22.13.1",
     "pnpm": "9.12.1"
   },
   "publishConfig": {
